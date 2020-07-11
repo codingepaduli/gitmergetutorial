@@ -16,4 +16,6 @@ operazione di add e commit
 
 ``git push --set-upstream origin development`` crea un upstream, cioè un branch remoto
 
-Poi vado in remoto, clicco su "pull request", "merge e pull" e poi confermo.
+Poi vado in remoto, clicco su "New pull request", seleziono un confronto "master" -> "development", e clicco "crea pull request" e confermo.
+
+Creata la pull request, devo cliccare "merge e pull" e poi confermo.
