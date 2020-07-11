@@ -8,3 +8,11 @@
 
 ``git checkout development`` passa al branch dev
 
+operazione di add e commit
+
+``git whatchanged`` vede i vari cambiamenti
+
+
+``git push`` chiede l'upstream
+
+``git push --set-upstream origin development`` crea un upstream, cioè un branch remoto
