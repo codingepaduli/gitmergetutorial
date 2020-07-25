@@ -4,7 +4,7 @@
 
 ``git branch development`` Crea il branch
 
-``git branch`` elenca i branch
+``git branch -vv`` elenca i branch
 
 ``git checkout development`` passa al branch dev
 
