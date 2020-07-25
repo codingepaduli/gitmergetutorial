@@ -19,3 +19,13 @@ operazione di add e commit
 Poi vado in remoto, clicco su "New pull request", seleziono un confronto "master" -> "development", e clicco "crea pull request" e confermo.
 
 Creata la pull request, devo cliccare "merge e pull" e poi confermo.
+
+Per sincronizzare con remoto
+```
+git fetch --all
+```
+
+Per pulire rispetto ai branch remoti:
+```
+git fetch --prune
+```
